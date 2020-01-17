@@ -1,0 +1,93 @@
+#nomdepartement{
+	font-size: 3em;
+     font-family:  Impact ;
+}
+#nomlogiciel{
+    font-size: 4em; 
+    font-family:algerian;
+}
+body{
+	background-color: ;
+}
+.formulaireIdentification{
+	margin: 0 25% 0 25%;
+	border: 1px solid navy;
+	height: 50%;
+	position: relative;
+	background-color: gray; 
+}
+.logo, .profil{
+	display: inline-block;
+}
+
+.profil{
+	border: 1px solid black;
+	text-align: center;
+	position: relative;
+     margin-left: 15%; 
+	 top: -20px; 
+}
+
+.profil input[type='text'] {
+    margin: 10px;
+}
+
+
+.logo{
+	//border:1px solid black;
+	margin: 10px; 
+}
+
+
+.nav-bar{
+	margin: 0 20% 3% 20%;
+
+}
+.nav-bar a{
+	width: 30%;
+}
+
+.error{
+	//border:1px solid red;
+	text-align: center;
+	margin: 0 25% 0 25%;
+	color: red;
+}
+
+.choix-appreciation{
+	align-content:  center;
+
+	border: 1px solid black;
+}
+
+#nomvotant{
+	text-align: center;
+	margin: 0 30% 2% 30%;
+}
+
+.critere{
+	position: relative;
+	align-content: center;
+	max-width: 26%;
+	margin-bottom: 10%;
+
+}
+
+.listeEnseignant{
+	position: relative;
+	border: 5px groove black;
+	width: 70%;
+	margin-left: 28%;
+	margin-top: -30%;
+
+}
+
+.nomEnseignant{
+	//border: 1px solid black;
+	
+}
+.valeurCritere{
+
+	word-spacing: 1.5em;
+	margin-left: 0.2em;
+}
